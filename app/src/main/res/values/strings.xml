@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TunityTask</string>
+    <string name="title_activity_data_preview">DataPreviewActivity</string>
+</resources>
